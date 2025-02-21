@@ -1,3 +1,7 @@
+## 1.0.5
+
+* Update podspec.
+
 ## 1.0.4
 
 * First stable version of flutter_apple_pay_plus.
